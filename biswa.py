@@ -18,4 +18,4 @@ else:
     print(num, "is not a prime number")
 
 
-    "hey how are you , how ots going"
+   
